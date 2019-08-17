@@ -1,0 +1,27 @@
+{
+  "name": "socket.io-presentation",
+  "version": "1.0.0",
+  "description": "Apresentação de Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniciusFXavier/Socket.io-Presentation.git"
+  },
+  "keywords": [
+    "socket.io"
+  ],
+  "author": "Vinícius Francisco Xavier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViniciusFXavier/Socket.io-Presentation/issues"
+  },
+  "homepage": "https://github.com/ViniciusFXavier/Socket.io-Presentation#readme",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
